@@ -1,0 +1,13 @@
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.exe
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.deps.json
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.runtimeconfig.json
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.runtimeconfig.dev.json
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.dll
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\bin\Debug\netcoreapp3.1\evenodd.pdb
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.dll
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.pdb
+C:\Users\Joseph\Desktop\GITHUB\C#\Chapter 10\evenodd\obj\Debug\netcoreapp3.1\evenodd.genruntimeconfig.cache
