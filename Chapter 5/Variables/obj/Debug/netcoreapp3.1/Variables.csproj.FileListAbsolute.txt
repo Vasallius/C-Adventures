@@ -1,0 +1,13 @@
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+J:\GITHUB\C#\Chapter 5\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+J:\GITHUB\C#\Chapter 5\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
