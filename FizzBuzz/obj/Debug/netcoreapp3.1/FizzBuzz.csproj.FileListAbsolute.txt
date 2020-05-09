@@ -1,0 +1,12 @@
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+E:\Jed\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+E:\Jed\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache

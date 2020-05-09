@@ -1,0 +1,13 @@
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.csprojAssemblyReference.cache
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.csproj.CoreCompileInputs.cache
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.AssemblyInfoInputs.cache
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.AssemblyInfo.cs
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.exe
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.deps.json
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.runtimeconfig.json
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.runtimeconfig.dev.json
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.dll
+E:\Jed\MakingaCalculator\bin\Debug\netcoreapp3.1\MakingaCalculator.pdb
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.dll
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.pdb
+E:\Jed\MakingaCalculator\obj\Debug\netcoreapp3.1\MakingaCalculator.genruntimeconfig.cache

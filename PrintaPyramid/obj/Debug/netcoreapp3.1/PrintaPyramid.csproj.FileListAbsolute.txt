@@ -1,0 +1,13 @@
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.csprojAssemblyReference.cache
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.csproj.CoreCompileInputs.cache
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.AssemblyInfoInputs.cache
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.AssemblyInfo.cs
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.exe
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.deps.json
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.runtimeconfig.json
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.runtimeconfig.dev.json
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.dll
+E:\Jed\PrintaPyramid\bin\Debug\netcoreapp3.1\PrintaPyramid.pdb
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.dll
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.pdb
+E:\Jed\PrintaPyramid\obj\Debug\netcoreapp3.1\PrintaPyramid.genruntimeconfig.cache

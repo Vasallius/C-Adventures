@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "J:\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj": {}
+    "C:\\Users\\Joseph\\Desktop\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj": {}
   },
   "projects": {
-    "J:\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj": {
+    "C:\\Users\\Joseph\\Desktop\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph\\Desktop\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj",
         "projectName": "CastingandOrderofOperations",
-        "projectPath": "J:\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj",
-        "packagesPath": "C:\\Users\\joseph\\.nuget\\packages\\",
-        "outputPath": "J:\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\obj\\",
+        "projectPath": "C:\\Users\\Joseph\\Desktop\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\CastingandOrderofOperations.csproj",
+        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joseph\\Desktop\\GITHUB\\C#\\Chapter 9\\CastingandOrderofOperations\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
