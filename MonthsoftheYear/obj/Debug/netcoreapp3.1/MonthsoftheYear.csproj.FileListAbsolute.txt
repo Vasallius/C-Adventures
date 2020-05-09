@@ -1,0 +1,12 @@
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.exe
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.deps.json
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.runtimeconfig.json
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.runtimeconfig.dev.json
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.dll
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\bin\Debug\netcoreapp3.1\MonthsoftheYear.pdb
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.dll
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.pdb
+C:\Users\Joseph\Desktop\GITHUB\C#\MonthsoftheYear\obj\Debug\netcoreapp3.1\MonthsoftheYear.genruntimeconfig.cache
